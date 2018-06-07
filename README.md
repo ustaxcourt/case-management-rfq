@@ -1,6 +1,18 @@
 # Case Management RFP
 Developing an RFP to procure a new case management system for the court.
 
+## Introduction
+
+## Background
+
+### What we're hoping to achieve as a result of this acquisition
+
+### How to respond
+
+### Budget
+
+### Contract Term
+
 ## Contributing
 
 See [CONTRIBUTING](CONTRIBUTING.md) for additional information.
