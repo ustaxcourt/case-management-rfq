@@ -22,7 +22,7 @@
 * [Introduction](SOO.md#introduction)
 * [Description of Work to be Performed](SOO.md#description-of-work-to-be-performed)
 * [General Requirements](SOO.md#general-requirements)
-* [Backlog of User Stories](SOO.md#backlog-of-user-stories)
+* [User Stories](SOO.md#user-stories)
 * [Case Initiation](SOO.md#case-initiation)
 * [Fees](SOO.md#fees)
 * [View & Search](SOO.md#view--search)
@@ -32,7 +32,6 @@
 * [Deliverables and Performance Standards](SOO.md#deliverables-and-performance-standards)
 * [Delivery Instructions](SOO.md#delivery-instructions)
 * [Special Requirements](SOO.md#special-requirements)
-* [Clauses](SOO.md#clauses)
 
 ### Evaluation Criteria
 * [Submissions](Evaluation_Criteria.md#submissions)
