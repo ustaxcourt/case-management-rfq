@@ -37,7 +37,7 @@ Offerors must set forth on each of the tabs 2-4 of the Excel workbook the labor 
 
 The Contractor will be compensated at loaded hourly rates.  All proposed labor rates must be consistent with or lower than the Offeror’s GSA Schedule rates, and must be fully burdened (inclusive of profit, fringe benefits, salary, indirect rates, and the GSA Contract Access Fee (CAF)).  The Court seeks further price reductions and Most Favored Customer (MFC) pricing for all labor categories.  Offerors should provide their best discounted rates.
 
-### Interviews
+#### Interviews
 
 The Offerors with the most highly rated written submissions will be invited to participate in an interview as part of the evaluation process.  Each interview will be conducted remotely via video connection and/or teleconference.  The Court will schedule the dates and times of interviews after the solicitation closing date.
 
@@ -61,18 +61,18 @@ The Court will evaluate technically acceptable quotes on a competitive best valu
 
 The technical evaluation factors, when combined, are significantly more important than price.  The Court may make an award to an Offeror that demonstrates an advantage with respect to non-price factors, even if such an award would result in a higher total price to the Court.  The importance of price in the evaluation will increase with the degree of equality of the other factors, or when the Offeror’s price is so significantly high as to diminish the value to the Court of the Offeror’s advantage in the other factors.
 
-### Technical Approach
+#### Technical Approach
 
 In evaluating an Offeror’s technical approach, the Court will consider (a) the quality of the Offeror’s plans to provide the open source, agile development services required, (b) the extent of the Offeror’s understanding of the details of the project requirements, and (c) the extent to which the Offeror has identified potential obstacles to efficient development, and has realistic approaches to overcome those potential obstacles.
 
-### Staffing Approach
+#### Staffing Approach
 
 In evaluating an Offeror’s staffing approach, the Court will consider (a) the level of the skills and experience of the Key Personnel and other individuals that the Offeror plans to use to provide the required services, (b) the mix of labor categories that will comprise the Offeror’s proposed development team, and (c) the Offeror’s proposed level of effort for each member of the Offeror’s proposed development team.
 
-### Similar Experience
+#### Similar Experience
 
 In evaluating an Offeror’s similar experience, the Court will consider the extent to which the Offeror has provided software development services for projects that are similar in size, scope, and complexity to the project described in this solicitation, and the quality of those services.  In considering the extent and quality of an Offeror’s similar experience, the Court may consider information from any source.
 
-### Price
+#### Price
 
 In evaluating an Offeror’s price, the Court will consider the Offeror’s total estimated costs for the development services and travel expenses proposed for three (3) years of work on this project.

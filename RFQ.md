@@ -35,12 +35,16 @@
 * [Clauses](SOO.md#clauses)
 
 ### Evaluation Criteria
-* [Submissions](Evaluation.md#submissions)
+* [Submissions](Evaluation_Criteria.md#submissions)
 * [Due Date and Time](Evaluation_Criteria.md#due-date-and-time)
+* [Modifications, Revisions, and Withdrawals](Evaluation_Criteria.md#modifications-revisions-and-withdrawals)
 * [Technical Submissions](Evaluation_Criteria.md#technical-submissions)
 * [Price Submissions](Evaluation_Criteria.md#price-submissions)
-* [Verbal Interviews](Evaluation_Criteria.md#verbal-interviews)
-* [Standards](Evaluation.md#standards)
+* [Interviews](Evaluation_Criteria.md#interviews)
+* [Basis of Award and Evaluation Factors](Evaluation_Criteria.md#basis-of-award-and-evaluation-factors)
+* [Technical Approach](Evaluation_Criteria.md#technical-approach)
+* [Staffing Approach](Evaluation_Criteria.md#staffing-approach)
+* [Price](Evaluation_Criteria.md#price)
 
 ### Appendices
 * [Appendix A: Description of the Tax Court](Appendix_A.md)
