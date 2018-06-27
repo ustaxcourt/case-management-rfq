@@ -115,7 +115,7 @@ This is a time and materials order and all quotes must be submitted on this basi
 
 ## Period of Performance
 
-Performance shall be for an initial period that begins with the date of order and ends one (1) year after the date of order. The Court may, by written noticeissued at least 15 days prior to expiration of the initialperiod, extend the period of performance for an additional year. If the Court exercises that initial option, the Court may also, by written notice issued at least 15 days prior to the expiration of the initial option year, extend the period of performance for an additional year.
+Performance shall be for an initial period that begins with the date of order and ends one (1) year after the date of order. The Court may, by written notice issued at least 15 days prior to expiration of the initial period, extend the period of performance for an additional year. If the Court exercises that initial option, the Court may also, by written notice issued at least 15 days prior to the expiration of the initial option year, extend the period of performance for an additional year.
 
 ## Delivery Instructions
 
@@ -123,7 +123,7 @@ The Contractor must deliver software code at least daily to the Court’s GitHub
 
 ## Special Requirements
 
-Travel — The Tax Court will reimburse expenses relating to travel necessary to provide the professional services required under the order, up to a ceiling of $50,000 per year, so long as eachexpense is approved in advance by the Court. To be eligible for reimbursement, those travel expenses must be allowable under the Federal Travel Regulations promulgated by the General Services Administration in effect at the time the travel was taken.
+Travel — The Tax Court will reimburse expenses relating to travel necessary to provide the professional services required under the order, up to a ceiling of $50,000 per year, so long as each expense is approved in advance by the Court. To be eligible for reimbursement, those travel expenses must be allowable under the Federal Travel Regulations promulgated by the General Services Administration in effect at the time the travel was taken.
 
 Key Personnel — The Contractor must designate both a Project Manager (PM) and a Technical Lead as Key Personnel for this project. ThePM will be a direct liaison to the Court product team, and will be responsible for the supervision and management of all of the Contractor’s personnel, technical assistance, and interface. The Technical Lead must have a full understanding of the technical approach to be used by the development team and will be responsible for ensuring that the development team follows that approach.
 
