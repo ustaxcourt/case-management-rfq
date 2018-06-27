@@ -40,10 +40,7 @@ Tables 1 and 2 below provide information on the Court‘s current SQL Server and
 | NA | NA | Microsoft SQL Failover Cluster (FCI) |   |
 | NA | NA | Microsoft Failover Cluster (not SQL). Needed for SQL Clustering |   |
 | NA | NA | Part of Microsoft Failover Cluster (not SQL). Needed for SQL Clustering |   |
-| 4 | 64GB | SQL 2016 | C: 256GB
-D: 256GB E:Databases1 – 3TB F:Databases2 – 3TB G:Databases3 – 3TB H:TempDB1 – 50GB
-I: TempDB2 – 50GB
-J:UserDBLogs – 100GB K:TempDB Logs – 50GB Q:Quorum – 2GB
+| 4 | 64GB | SQL 2016 | C: 256GB, D: 256GB, E:Databases1 – 3TB, F:Databases2 – 3TB, G:Databases3 – 3TB, H:TempDB1 – 50GB, I: TempDB2 – 50GB, J:UserDBLogs – 100GB, K:TempDB Logs – 50GB, Q:Quorum – 2GB
 X:CD |
 
 
