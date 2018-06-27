@@ -20,6 +20,8 @@ We intend to release the final RFQ later this summer with responses due within 3
 1. [Appendix B: Tax Court Network Environment](05_Appendix_B.md)
 1. [Appendix C: Case Processing Workflows](06_Appendix_C.md)
 
+The entire RFQ may alternated be [downloaded as a single PDF](Entire_RFQ.pdf).
+
 ## Background
 
 ### What we're hoping to achieve as a result of this acquisition
