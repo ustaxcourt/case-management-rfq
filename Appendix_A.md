@@ -11,7 +11,7 @@ The scope of the Tax Court’s jurisdiction is set forth in Title 26 of the U.S.
 
 The Court currently has about 22,000 open cases. About 27,000 cases were filed with the Court during FY 2017.
 
-A Tax Court proceeding commences with the filing of a Petition. A "Petitioner" is the party who initiates the case; the IRS is always the "Respondent". Approximately 80% of petitioners are self-represented. Petitioners can choose their location of tral from any of the 74 places of trial that the Court holds sessions across the country.
+A Tax Court proceeding commences with the filing of a Petition. A "Petitioner" is the party who initiates the case; the IRS is always the "Respondent". Approximately 80% of petitioners are self-represented. Petitioners can choose their location of trial from any of the 74 places of trial that the Court holds sessions across the country.
 
 A Tax Court case is not automatically assigned to a Judge when the Petition is filed. A Tax Court case is maintained in the general docket under the supervision of the Chief Judge until it is calendared for trial or assigned to a Judge.
 
