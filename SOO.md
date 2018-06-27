@@ -56,7 +56,7 @@ The code and documentation to be provided by the Contractor must meet the perfor
 
 The set of preliminary user stories set forth below will be the starting point for the software development services to be provided under this order. These user stories are provided only for illustrative purposes, and do not comprise the scope or detail of the work that will be performed. Additional user stories to be determined will likely cover areas including e-signatures, notes, routing, notifications, calendaring, and reporting and analytics.
 
-The backlog of user stories will be a maintained in a web-based project management application that will be provided by the Court. Individual user stories may be modified, added, retracted, or reprioritized by the Court at any time, and the Court expects that the user stories will be continuously refined during the development process. This set of preliminary user stories has been categorized into releases, but has not been prioritized.
+The backlog of user stories will be maintained in a web-based project management application that will be provided by the Court. Individual user stories may be modified, added, retracted, or reprioritized by the Court at any time, and the Court expects that the user stories will be continuously refined during the development process. This set of preliminary user stories has been categorized into releases, but has not been prioritized.
 
 ### Case Initiation
 
