@@ -9,7 +9,7 @@
 
 The United States Tax Court (hereinafter "Tax Court" or "Court") is an independent Federal court headquartered in Washington, D.C. The Court provides a national forum for the formal adjudication of disputes between taxpayers and the Internal Revenue Service ("IRS"). The vast majority of Federal tax litigation occurs in the Tax Court. Approximately 27,000 cases were initiated in the Tax Court during 2017, and at the end of the year, there were about 22,000 cases pending before the Court. The Court’s mission is to adjudicate the cases pending before it fairly, efficiently, and quickly. [Appendix A further describes the Court’s structure and operations](Appendix_A.md).
 
-The Court maintains a data network that operates in a Windows environment and supports approximately 250 internal users. (Appendix B describes the Court’s current network environment)[Appendix_B.md] in more detail.
+The Court maintains a data network that operates in a Windows environment and supports approximately 250 internal users. [Appendix B describes the Court’s current network environment](Appendix_B.md) in more detail.
 
 The Court currently uses a legacy case management system that is not web-based. The Court holds a license to use the software that supports that system. Under the terms of that license, the Court is precluded from disclosing any programs, concepts, designs, or source code. This may be an important operating constraint for the Contractor because it will not be able to view or access the current system in any way.
 
