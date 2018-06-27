@@ -7,18 +7,18 @@ The United States Tax Court is an independent Federal court headquartered in Was
 
 Like all courts, the Tax Court uses a case management system to manage its caseload. The current system is a legacy, non-web-based system. The Court intends to develop and deploy a new, web-based electronic filing and case management system that uses open source software.
 
-Here we provide [a draft of the Request for Quotes (RFQ)](RFQ.md) that we intend to release to solicit software development services to build our new case management system.
+Here we provide [a draft of the Request for Quotes (RFQ)](01_RFQ.md) that we intend to release to solicit software development services to build our new case management system.
 
 We intend to release the final RFQ later this summer with responses due within 3-4 weeks of its release.
 
 ## Table of Contents
 
-1. [Introduction](RFQ.md)
-1. [Statement of Objectives](SOO.md)
-1. [Evaluation Criteria](Evaluation_Criteria.md)
-1. [Appendix A: Description of the Tax Court](Appendix_A.md)
-1. [Appendix B: Tax Court Network Environment](Appendix_B.md)
-1. [Appendix C: Case Processing Workflows](Appendix_C.md)
+1. [Introduction](01_RFQ.md)
+1. [Statement of Objectives](02_SOO.md)
+1. [Evaluation Criteria](03_Evaluation_Criteria.md)
+1. [Appendix A: Description of the Tax Court](04_Appendix_A.md)
+1. [Appendix B: Tax Court Network Environment](05_Appendix_B.md)
+1. [Appendix C: Case Processing Workflows](06_Appendix_C.md)
 
 ## Background
 
