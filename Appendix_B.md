@@ -3,9 +3,7 @@
 # United States Tax Court
 # Electronic Filing — Case Management System (EF-CMS)
 
-## Appendix B
-
-**Tax Court Network Environment**
+## Appendix B: Tax Court Network Environment
 
 The Court maintains a data network that operates in a Windows environment and supports approximately 250 internal users.  The Court currently contracts with Iron Bow Technologies, LLC for a broad variety of network-related services.
 
@@ -31,7 +29,7 @@ The Court’s current network system is configured in a single instance Microsof
 
 Tables 1 and 2 below provide information on the Court’s current SQL Server and VM Server environment (servers, cores, memory, and disk storage).
 
-**Table 1 - SQL Production Server Specifications**
+### Table 1 - SQL Production Server Specifications
 
 | **# Cores** | **Memory** | **Comments** | **Disk** |
 | --- | --- | --- | --- |
@@ -44,8 +42,7 @@ Tables 1 and 2 below provide information on the Court’s current SQL Server and
 X:CD |
 
 
-
-**Table 2 - VM Server Specifications**
+### Table 2 - VM Server Specifications
 
 | **# Cores** | **Memory** | **Comments** | **Disk** |
 | --- | --- | --- | --- |

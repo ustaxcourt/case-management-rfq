@@ -3,7 +3,7 @@
 # United States Tax Court
 # Electronic Filing — Case Management System (EF-CMS)
 
-## Appendix C
+## Appendix C: Case Processing Workflows
 
 This Appendix C outlines each of the case processing workflows that the Court expects will be supported by a future EF-CMS, through a narrative description of each process, followed by figures depicting the current workflows of the Court. The workflows depict the Court’s internal processes and not those of its current case management system.
 

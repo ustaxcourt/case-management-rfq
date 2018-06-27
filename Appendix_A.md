@@ -3,9 +3,7 @@
 # United States Tax Court
 # Electronic Filing — Case Management System (EF-CMS)
 
-## Appendix A
-
-### Description of the Tax Court
+## Appendix A: Description of the Tax Court
 
 The Tax Court is an independent Federal court with headquarters in Washington, D.C. The United States Tax Court provides a national forum for the resolution of disputes between taxpayers and the Internal Revenue Service (IRS). The Tax Court conducts trial sessions and hearings in Washington, D.C., and in 73 other cities throughout the United States. The majority of all substantive Federal tax litigation takes place in the Tax Court. Tax Court cases are tried by Judges without a jury.
 
