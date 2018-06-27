@@ -19,7 +19,7 @@ We want a wholesale replacement of our case management system. Our goal is not t
 
 ### How to respond
 
-The purpose of posting this draft of the RFQ is to solicit feedback from any interested parties, including vendors of software development services.  It is our preference to receive feedback in the form of changes proposed as [pull requests](https://github.com/ustaxcourt/case-management-rfp/pulls), or by [opening an new issue](https://github.com/ustaxcourt/case-management-rfp/issues). In this way, feedback can be seen and discussed by anybody, instead of being available only to the Court. But for those who are uncomfortable with providing public comment on GitHub, or are unable to do so, we also accept comments via email at clerk@ustaxcourt.gov.
+The purpose of posting this draft of the RFQ is to solicit feedback from any interested parties, including vendors of software development services.  It is our preference to receive feedback in the form of changes proposed as [pull requests](https://github.com/ustaxcourt/case-management-rfp/pulls), or by [opening an new issue](https://github.com/ustaxcourt/case-management-rfp/issues). In this way, feedback can be seen and discussed by anybody, instead of being available only to the Court. But for those who are uncomfortable with using GitHub, or are unable to do so, we also accept comments via email at clerk@ustaxcourt.gov. Please note that all e-mailed questions and company names will also be added to [issues.](https://github.com/ustaxcourt/case-management-rfp/issues) 
 
 Note that we are _not_ seeking proposals at this time.
 
