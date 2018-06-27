@@ -119,7 +119,7 @@ Performance shall be for an initial period that begins with the date of order an
 
 ## Delivery Instructions
 
-The Contractor must deliver software code at least daily to the Court’s GitHub repository. Document deliverables must be submitted to the Court electronically at clerk@ustaxcourt.gov.
+The Contractor must deliver software code at least daily to the Court’s GitHub repository. Document deliverables must be submitted to the Court electronically at [clerk@ustaxcourt.gov](mailto:clerk@ustaxcourt.gov).
 
 ## Special Requirements
 
