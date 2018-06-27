@@ -31,6 +31,15 @@ The order will be for an initial period of one year, and the Court will have opt
 
 The Court will pay up to $2 million for services during the first year, and up to $2 million during each of the two option years.
 
+## Table of Contents
+
+1. [Introduction](RFQ.md)
+1. [Statement of Objectives](SOO.md)
+1. [Evaluation Criteria](Evaluation_Criteria.md)
+1. [Appendix A: Description of the Tax Court](Appendix_A.md)
+1. [Appendix B: Tax Court Network Environment](Appendix_B.md)
+1. [Appendix C: Case Processing Workflows](Appendix_C.md)
+
 ## Contributing
 
 See [CONTRIBUTING](CONTRIBUTING.md) for additional information.
