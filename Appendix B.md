@@ -9,7 +9,7 @@
 
 The Court maintains a data network that operates in a Windows environment and supports approximately 250 internal users.  The Court currently contracts with Iron Bow Technologies, LLC for a broad variety of network-related services.
 
-The Court‘s future EF-CMS will have three virtualized environments:
+The Court’s future EF-CMS will have three virtualized environments:
 
 - A Development Environment that will support software configuration, custom-development, data migration, and test case/data creation.
 
@@ -23,13 +23,13 @@ The Court monitors and manages application performance using Cisco AppDynamics. 
 
 Internal Tax Court users access the network using Court-issued devices including desktops (currently Windows 10), laptops (currently Windows 10), tablets, and/or smartphones.  For remote access, internal users use a VPN on Court-issued devices, and the Court plans to introduce a Virtual Desktop Interface (VDI) for remote access, including for Bring Your Own Devices (BYOD).
 
-Outside the Washington, DC headquarters location, the Court leases field courtroom space in 37 cities throughout the nation.  These sites use a combination of T1 and 4G connections to the Washington, D.C. headquarters location, meaning that these sites can be bandwidth-constrained, and Cisco‘s Wide Area Application Services to enhance the remote site connections.
+Outside the Washington, DC headquarters location, the Court leases field courtroom space in 37 cities throughout the nation.  These sites use a combination of T1 and 4G connections to the Washington, D.C. headquarters location, meaning that these sites can be bandwidth-constrained, and Cisco’s Wide Area Application Services to enhance the remote site connections.
 
 The Court has a Nutanix hyper-converged environment.  The Nutanix hardware platform has redundant power supplies, memory, and can withstand multiple hard disk failures.  All nodes within the system work together as a cluster.  All Nutanix servers utilize Windows Server 2012 R2.
 
-The Court‘s current network system is configured in a single instance Microsoft SQL Server Cluster, with SQL and Windows failover clustering (SQL Failover Cluster Interfaces and Windows Server Failover Clustering).  The Court has a disaster recovery offsite location, with Nutanix replication and AlwaysOn Availability Groups, which replicates the primary database to a secondary database at the disaster recovery site.
+The Court’s current network system is configured in a single instance Microsoft SQL Server Cluster, with SQL and Windows failover clustering (SQL Failover Cluster Interfaces and Windows Server Failover Clustering).  The Court has a disaster recovery offsite location, with Nutanix replication and AlwaysOn Availability Groups, which replicates the primary database to a secondary database at the disaster recovery site.
 
-Tables 1 and 2 below provide information on the Court‘s current SQL Server and VM Server environment (servers, cores, memory, and disk storage).
+Tables 1 and 2 below provide information on the Court’s current SQL Server and VM Server environment (servers, cores, memory, and disk storage).
 
 **Table 1 - SQL Production Server Specifications**
 
