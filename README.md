@@ -1,10 +1,10 @@
-## Introduction
+# Introduction
 
 The United States Tax Court is an independent Federal court headquartered in Washington, D.C. The Court provides a national forum for the formal adjudication of disputes between taxpayers and the Internal Revenue Service.
 
 The Tax Court uses a case management system to manage its caseload. The current system is a legacy, non-web-based system. The Court intends to develop and deploy a new, web-based electronic filing and case management system that uses open source software.  The Court is requesting quotes for agile software development services from vendors with contracts under GSA Schedule 70, SIN 132-51.
 
-## Table of Contents
+# Table of Contents
 
 1. [Introduction](01_RFQ.md)
 2. [Statement of Objectives](02_SOO.md)
