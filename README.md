@@ -1,5 +1,6 @@
 # Case Management RFQ
-Developing an RFQ to procure a new case management system for the United States Tax Court.
+
+An RFQ to procure a new case management system for the [United States Tax Court](https://www.ustaxcourt.gov/).
 
 ## Introduction
 
@@ -7,9 +8,7 @@ The United States Tax Court is an independent Federal court headquartered in Was
 
 Like all courts, the Tax Court uses a case management system to manage its caseload. The current system is a legacy, non-web-based system. The Court intends to develop and deploy a new, web-based electronic filing and case management system that uses open source software.
 
-Here we provide [a draft of the Request for Quotes (RFQ)](01_RFQ.md) that we intend to release to solicit software development services to build our new case management system. We are requesting comments and questions no later than Friday, July 13, 2018.
-
-We intend to release the final RFQ later this summer with responses due within 3-4 weeks of its release.
+Here we provide [a Request for Quotes (RFQ)](01_RFQ.md) to solicit software development services to build our new case management system. Responses are due no later than Friday, August 24, 2018.
 
 ## Table of Contents
 
@@ -38,9 +37,9 @@ The Court has carefully considered the responses to the RFI, and the pros and co
 
 ### How to respond
 
-The purpose of posting this draft of the RFQ is to solicit feedback from any interested parties, including vendors of software development services.  It is our preference to receive feedback in the form of changes proposed as [pull requests](https://github.com/ustaxcourt/case-management-rfp/pulls), or by [opening an new issue](https://github.com/ustaxcourt/case-management-rfp/issues). In this way, feedback can be seen and discussed by anybody, instead of being available only to the Court. But for those who are uncomfortable with using GitHub, or are unable to do so, we also accept comments via email at clerk@ustaxcourt.gov. Please note that all e-mailed questions will also be publicly posted to this repository's [issues list](https://github.com/ustaxcourt/case-management-rfp/issues).
+Submissions must be sent by email to [clerk@ustaxcourt.gov](mailto:clerk@ustaxcourt.gov) on or before 5:00 p.m. EDT on Friday, August 24, 2018.
 
-Note that we are _not_ seeking proposals at this time.
+Questions about this RFQ may be submitted by email to [*clerk@ustaxcourt.gov*](mailto:clerk@ustaxcourt.gov), or by [opening an issue on this repository](/ustaxcourt/case-management-rfq/issues/). All inquiries must be received by the Court or posted on GitHub on or before 5:00 p.m. EDT on Friday, August 17, 2018. Please note that all e-mailed questions will also be publicly posted to this repository's issues list.
 
 ### Contract Term
 
@@ -48,7 +47,7 @@ The order will be for an initial period of one year, and the Court will have opt
 
 ### Budget
 
-The Court will pay up to $2 million for services during the first year, and up to $2 million during each of the two option years.
+The Court will pay up to \$2 million for services during the first year, and up to \$2 million during each of the two option years.
 
 ## Contributing
 

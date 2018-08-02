@@ -1,20 +1,16 @@
-# DRAFT
 # REQUEST FOR QUOTE #18-0018
 # United States Tax Court
 # Electronic Filing — Case Management System (EF-CMS)
 
-
 ![Seal of the U.S. Tax Court](images/seal.png)
 
-**June 27, 2018**
+**Issued by Clerk of the Court ([clerk@ustaxcourt.gov](mailto:clerk@ustaxcourt.gov))**
 
-**Issued by Clerk of Court ([clerk@ustaxcourt.gov](mailto:clerk@ustaxcourt.gov))**
+**Release Date: August 2, 2018**
 
-**RFQ Release Date: TBD**
+**Response Due Date: August 24, 2018**
 
-**RFQ Response Due Date: TBD**
-
-**Offers Expire: One Year from Submission**
+**Quotes Expire: One Year from Submission**
 
 ## Contents
 
@@ -49,3 +45,5 @@
 * [Appendix A: Description of the Tax Court](04_Appendix_A.md)
 * [Appendix B: Tax Court Network Environment](05_Appendix_B.md)
 * [Appendix C: Case Processing Workflows](06_Appendix_C.md)
+
+
