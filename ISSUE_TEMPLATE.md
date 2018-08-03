@@ -1,10 +1,9 @@
 # Question/Comment on this U.S. Tax Court RFQ
 
 ## Name and affiliation
-{please provide information about your job/role in the acquistion process as well as your organization} 
+{Please provide information about your job/role in the acquistion process as well as your organization} 
 
 ## Section of RFQ documents
-{please be specific about the section of the RFP documents you have a question or comment about, if applicable}  
+{Please be specific about the section of the RFQ documents you have a question or comment about, if applicable}  
 
 ## Question/Comment
-{ask away!}
