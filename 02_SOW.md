@@ -92,7 +92,7 @@ The backlog of user stories will be maintained in JIRA, a web-based project mana
 -   As a Member of the Tax Court Bar, I need to pay the filing fee on behalf of a client so their case can proceed, or submit a request for fee waiver on behalf of a client.
 -   As a Member of the Tax Court Bar, I need to pay my bar fees to maintain an active status.
 -   As a disinterested person, I need to request and pay for copies of existing case filings of record and court publications/related documents so I can better familiarize myself with court actions for purposes of legal research, and familiarize myself with the rules of practice and procedure.
--   As an individual seeking admission to the Tax Court Bar, I need to pay an application fee and/or a non-attorney exam fee so I can become admitted to the Court’s bar.
+-   As an individual seeking admission to the Tax Court Bar, I need to pay an application fee and/or a non-attorney exam fee to be admitted to the Court’s bar.
 -   As Staff, I need to determine whether payment has been made so I can take the proper action on a case/application.
 
 #### View and Search

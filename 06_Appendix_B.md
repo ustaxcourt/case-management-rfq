@@ -34,7 +34,7 @@ A Tax Court case will be initiated by the filing of a Petition in one of three w
 2. Mailing a paper Petition to the Tax Court in Washington, D.C.; or
 3. Filing a Petition electronically.
 
-A complete Petition packet should include a Petition that complies with the Court’s Rule 34, a copy of the IRS notice on which the Court’s jurisdiction is based (if any), a Request for Place of Trial, a Statement of Taxpayer Identification, and the Court’s filing fee. However, many Petitions do not conform with the Tax Court Rules, and some of the documents submitted will not become part of the official docket record. The Court expects a future EF-CMS will allow for the processing of these documents that are not part of the record.
+A complete Petition packet should include a Petition that complies with the Court’s Rule 34, a copy of the IRS notice on which the Court’s jurisdiction is based (if any), a Request for Place of Trial, a Statement of Taxpayer Identification, and the Court’s filing fee. Many Petitions do not conform with the Tax Court Rules, and some of the documents submitted will not become part of the official docket record. The Court expects a future EF-CMS will allow for the processing of these documents that are not part of the record.
 
 Receipt of Petition: If a paper Petition is hand-delivered to the Court, a Court employee will stamp it with the date and time it was received, and provide the person who delivered it to the Court with a receipt. If a paper Petition is mailed to the Court, a Court employee will open the envelope and stamp the paper Petition with the date and time it was received. A person wishing to file a Petition electronically will be required to first register with the Court through the Court’s electronic filing system.
 
