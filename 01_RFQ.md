@@ -14,24 +14,27 @@
 
 ## Contents
 
-### Statement of Objectives
-* [Introduction](02_SOO.md#introduction)
-* [Description of Work to be Performed](02_SOO.md#description-of-work-to-be-performed)
-* [General Requirements](02_SOO.md#general-requirements)
-* [User Stories](02_SOO.md#user-stories)
-* [Case Initiation](02_SOO.md#case-initiation)
-* [Fees](02_SOO.md#fees)
-* [View & Search](02_SOO.md#view--search)
-* [Content Management](02_SOO.md#content-management)
-* [Location of Work to be Performed](02_SOO.md#location-of-work-to-be-performed)
-* [Period of Performance](02_SOO.md#period-of-performance)
-* [Deliverables and Performance Standards](02_SOO.md#deliverables-and-performance-standards)
-* [Delivery Instructions](02_SOO.md#delivery-instructions)
-* [Special Requirements](02_SOO.md#special-requirements)
+### Statement of Work
+* [Introduction](02_SOW.md#introduction)
+* [Description of Work to be Performed](02_SOW.md#description-of-work-to-be-performed)
+* [General Requirements](02_SOW.md#general-requirements)
+* [Deliverables and Performance Standards](02_SOW.md#deliverables-and-performance-standards)
+* [User Stories](02_SOW.md#user-stories)
+* [Case Initiation](02_SOW.md#case-initiation)
+* [Fees](02_SOW.md#fees)
+* [View & Search](02_SOW.md#view--search)
+* [Content Management](02_SOW.md#content-management)
+* [Location of Work to be Performed](02_SOW.md#location-of-work-to-be-performed)
+* [Order Type and Ceiling Price](02_SOW.md#order-type-and-ceiling-price)
+* [Period of Performance](02_SOW.md#period-of-performance)
+* [Delivery Instructions](02_SOW.md#delivery-instructions)
+* [Special Requirements](02_SOW.md#special-requirements)
 
 ### Evaluation Criteria
 * [Submissions](03_Evaluation_Criteria.md#submissions)
+* [Format](03_Evaluation_Criteria.md#format)
 * [Due Date and Time](03_Evaluation_Criteria.md#due-date-and-time)
+* [Inquiries](03_Evaluation_Criteria.md#inquiries)
 * [Modifications, Revisions, and Withdrawals](03_Evaluation_Criteria.md#modifications-revisions-and-withdrawals)
 * [Technical Submissions](03_Evaluation_Criteria.md#technical-submissions)
 * [Price Submissions](03_Evaluation_Criteria.md#price-submissions)
@@ -43,7 +46,4 @@
 
 ### Appendices
 * [Appendix A: Description of the Tax Court](04_Appendix_A.md)
-* [Appendix B: Tax Court Network Environment](05_Appendix_B.md)
-* [Appendix C: Case Processing Workflows](06_Appendix_C.md)
-
-
+* [Appendix B: Case Processing Workflows](06_Appendix_B.md)

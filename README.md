@@ -7,10 +7,10 @@ The Tax Court uses a case management system to manage its caseload. The current 
 # Table of Contents
 
 1. [Introduction](01_RFQ.md)
-2. [Statement of Objectives](02_SOO.md)
+2. [Statement of Work](02_SOW.md)
 3. [Evaluation Criteria](03_Evaluation_Criteria.md)
 4. [Appendix A: Description of the Tax Court](04_Appendix_A.md)
-5. [Appendix B: Tax Court Network Environment](05_Appendix_B.md)
-6. [Appendix C: Case Processing Workflows](06_Appendix_C.md)
+5. [Appendix B: Case Processing Workflows](06_Appendix_B.md)
+6. [Pricing Template](Pricing_Template.xlsx)
 
 The entire RFQ may alternatively be [downloaded as a single PDF](Entire_RFQ.pdf).
