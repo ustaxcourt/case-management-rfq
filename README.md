@@ -14,3 +14,5 @@ The Tax Court uses a case management system to manage its caseload. The current 
 6. [Pricing Template](Pricing_Template.xlsx)
 
 The entire RFQ may alternatively be [downloaded as a single PDF](Entire_RFQ.pdf).
+
+Amendment to RFQ is [available here](Amendment to RFQ 8.20.18.pdf).
