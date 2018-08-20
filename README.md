@@ -15,4 +15,4 @@ The Tax Court uses a case management system to manage its caseload. The current 
 
 The entire RFQ may alternatively be [downloaded as a single PDF](Entire_RFQ.pdf).
 
-Amendment to RFQ is [available here](Amendment to RFQ 8.20.18.pdf).
+[Amendment to RFQ](Amendment_to_RFQ.pdf).
