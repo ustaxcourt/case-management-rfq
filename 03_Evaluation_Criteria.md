@@ -30,7 +30,7 @@ Offers will be valid for one (1) year after submission. Offers may be withdrawn 
 
 #### Technical Submissions
 
-Technical submissions must consist of a **technical proposal** of no more than four (4) pages, a **staffing plan** of no more than three (3) pages plus resumes and signed letters of intent to participate, and **references to one or more source code samples**. Technical submissions may also include user research plans and design artifacts. Technical proposals and staffing plans must be submitted using 12-point type.
+Technical submissions must consist of a **technical proposal** of no more than four (4) pages, a **staffing plan** of no more than three (3) pages plus resumes and signed letters of intent to participate, and **references to one or more source code samples**. Technical submissions may also include user research plans and design artifacts of no more than 30 pages combined. Technical proposals and staffing plans must be submitted using 12-point type.
 
 The **technical proposal** must set forth the Offeror’s proposed approach to providing the services required, including the base software (if any) and programming language(s) the Offeror proposes to use. The technical proposal must also make clear that the Offeror understands the details of the project requirements. The technical proposal must also identify potential obstacles to efficient development and include plans to overcome those potential obstacles. The technical proposal must also include a description of the Offeror’s plans, if any, to provide services through a joint venture, teaming partner, or subcontractors.
 
